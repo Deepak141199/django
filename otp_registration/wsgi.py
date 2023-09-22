@@ -1,4 +1,4 @@
-"""
+a"""
 WSGI config for otp_registration project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
