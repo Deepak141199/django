@@ -14,4 +14,3 @@ from django.core.asgi import get_asgi_application
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'otp_registration.settings')
 
 application = get_asgi_application()
-a
