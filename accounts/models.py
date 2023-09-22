@@ -1,5 +1,5 @@
 from django.db import models
-a
+
 # Create your models here.
 
 
